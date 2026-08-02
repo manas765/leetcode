@@ -47,10 +47,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/manas765/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0901-online-stock-span](https://github.com/manas765/leetcode/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/manas765/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/manas765/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/manas765/leetcode/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/manas765/leetcode/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/manas765/leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/manas765/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
