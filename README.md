@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/manas765/leetcode/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/manas765/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/manas765/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/manas765/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/manas765/leetcode/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/manas765/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manas765/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/manas765/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/manas765/leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/manas765/leetcode/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/manas765/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manas765/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Queue
