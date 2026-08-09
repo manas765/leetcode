@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manas765/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/manas765/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manas765/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/manas765/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manas765/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/manas765/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manas765/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manas765/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/manas765/leetcode/tree/master/1106-parsing-a-boolean-expression) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/manas765/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manas765/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/manas765/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/manas765/leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/manas765/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manas765/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/manas765/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/manas765/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
