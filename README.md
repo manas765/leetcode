@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manas765/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/manas765/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manas765/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Math
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manas765/leetcode/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manas765/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/manas765/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/manas765/leetcode/tree/master/0739-daily-temperatures) |
