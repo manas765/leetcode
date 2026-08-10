@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manas765/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/manas765/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/manas765/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manas765/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Math
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manas765/leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/manas765/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/manas765/leetcode/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/manas765/leetcode/tree/master/0224-basic-calculator) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manas765/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/manas765/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/manas765/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/manas765/leetcode/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manas765/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manas765/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0735-asteroid-collision](https://github.com/manas765/leetcode/tree/master/0735-asteroid-collision) |
@@ -146,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/manas765/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/manas765/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
