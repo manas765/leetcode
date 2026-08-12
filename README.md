@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manas765/leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manas765/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/manas765/leetcode/tree/master/0224-basic-calculator) |
 | [0382-linked-list-random-node](https://github.com/manas765/leetcode/tree/master/0382-linked-list-random-node) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/manas765/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/manas765/leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/manas765/leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/manas765/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/manas765/leetcode/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manas765/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manas765/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manas765/leetcode/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/manas765/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
