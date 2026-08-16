@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/manas765/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/manas765/leetcode/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/manas765/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0896-monotonic-array](https://github.com/manas765/leetcode/tree/master/0896-monotonic-array) |
 | [0946-validate-stack-sequences](https://github.com/manas765/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0976-largest-perimeter-triangle](https://github.com/manas765/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manas765/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
