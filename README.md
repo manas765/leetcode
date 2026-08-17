@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/manas765/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0976-largest-perimeter-triangle](https://github.com/manas765/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manas765/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/manas765/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3285-find-indices-of-stable-mountains](https://github.com/manas765/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 ## Queue
 |  |
@@ -158,10 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manas765/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/manas765/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manas765/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/manas765/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manas765/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/manas765/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/manas765/leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/manas765/leetcode/tree/master/0049-group-anagrams) |
 | [0976-largest-perimeter-triangle](https://github.com/manas765/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/manas765/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -191,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/manas765/leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Prefix Sum
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/manas765/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
