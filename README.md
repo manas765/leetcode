@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/manas765/leetcode/tree/master/0896-monotonic-array) |
 | [0946-validate-stack-sequences](https://github.com/manas765/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0976-largest-perimeter-triangle](https://github.com/manas765/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/manas765/leetcode/tree/master/1051-height-checker) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manas765/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/manas765/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3285-find-indices-of-stable-mountains](https://github.com/manas765/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/manas765/leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/manas765/leetcode/tree/master/0049-group-anagrams) |
 | [0976-largest-perimeter-triangle](https://github.com/manas765/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/manas765/leetcode/tree/master/1051-height-checker) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/manas765/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sliding Window
 |  |
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/manas765/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/manas765/leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/manas765/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
