@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/manas765/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manas765/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/manas765/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/manas765/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/manas765/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manas765/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/manas765/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/manas765/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/manas765/leetcode/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/manas765/leetcode/tree/master/0224-basic-calculator) |
+| [0345-reverse-vowels-of-a-string](https://github.com/manas765/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manas765/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manas765/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/manas765/leetcode/tree/master/1106-parsing-a-boolean-expression) |
