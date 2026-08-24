@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/manas765/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/manas765/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/manas765/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/manas765/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manas765/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/manas765/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/manas765/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/manas765/leetcode/tree/master/1051-height-checker) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manas765/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/manas765/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/manas765/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3285-find-indices-of-stable-mountains](https://github.com/manas765/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 ## Queue
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/manas765/leetcode/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manas765/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/manas765/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/manas765/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manas765/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/manas765/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Binary Search
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/manas765/leetcode/tree/master/0049-group-anagrams) |
 | [0976-largest-perimeter-triangle](https://github.com/manas765/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/manas765/leetcode/tree/master/1051-height-checker) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/manas765/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/manas765/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sliding Window
 |  |
