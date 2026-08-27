@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/manas765/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manas765/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/manas765/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/manas765/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/manas765/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manas765/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/manas765/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3713-longest-balanced-substring-i](https://github.com/manas765/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/manas765/leetcode/tree/master/1051-height-checker) |
+| [3713-longest-balanced-substring-i](https://github.com/manas765/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/manas765/leetcode/tree/master/0881-boats-to-save-people) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/manas765/leetcode/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
