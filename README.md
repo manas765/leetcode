@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/manas765/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/manas765/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/manas765/leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/manas765/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manas765/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/manas765/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3285-find-indices-of-stable-mountains](https://github.com/manas765/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
+| [3719-longest-balanced-subarray-i](https://github.com/manas765/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Queue
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/manas765/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3719-longest-balanced-subarray-i](https://github.com/manas765/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -245,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/manas765/leetcode/tree/master/3713-longest-balanced-substring-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/manas765/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/manas765/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
