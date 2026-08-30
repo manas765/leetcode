@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/manas765/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/manas765/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/manas765/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/manas765/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manas765/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manas765/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/manas765/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/manas765/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/manas765/leetcode/tree/master/1051-height-checker) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manas765/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/manas765/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manas765/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/manas765/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3285-find-indices-of-stable-mountains](https://github.com/manas765/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manas765/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/manas765/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/manas765/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
