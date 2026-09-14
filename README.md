@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/manas765/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manas765/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/manas765/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/manas765/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/manas765/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3713-longest-balanced-substring-i](https://github.com/manas765/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/manas765/leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/manas765/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/manas765/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/manas765/leetcode/tree/master/1051-height-checker) |
+| [1207-unique-number-of-occurrences](https://github.com/manas765/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manas765/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/manas765/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manas765/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
